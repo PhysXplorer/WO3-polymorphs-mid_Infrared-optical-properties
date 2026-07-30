@@ -1,8 +1,8 @@
-# WO$`_3`$-polymorphs-mid_Infrared-optical-properties
+# WO3-polymorphs-mid_Infrared-optical-properties
 
-This repository contains the tabulated frequency-dependent dielectric function and refractive index data for the three polymorphs of WO$`_3`$ at their respective temperatures, supporting the manuscript titled:
+This repository contains the tabulated frequency-dependent dielectric function and refractive index data for the three polymorphs of tungsten trioxide (WO3) at their respective temperatures, supporting the manuscript titled:
 
-"First-Principles Prediction of Phonon-Mediated Infrared Optical Properties of WO$`_3`$ Polymorphs"
+"First-Principles Prediction of Phonon-Mediated Infrared Optical Properties of WO3 Polymorphs"
 
 ## Contents
 
