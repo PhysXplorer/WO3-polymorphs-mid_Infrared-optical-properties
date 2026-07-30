@@ -1,4 +1,4 @@
-# WO$_3$-polymorphs-mid_Infrared-optical-properties
+# WO$`_3`$-polymorphs-mid_Infrared-optical-properties
 
 This repository contains the tabulated frequency-dependent dielectric function and refractive index data for the three polymorphs of WO$_3$ at their respective temperatures, supporting the manuscript titled:
 
